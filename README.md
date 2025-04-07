@@ -15,7 +15,6 @@ A command-line tool that uses Google's Gemini AI to transcribe audio files into 
 
 - Go 1.21 or later
 - Google Gemini API key
-- FFmpeg (for audio processing)
 
 ## Building
 
