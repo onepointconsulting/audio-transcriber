@@ -22,5 +22,5 @@ In this way, you consciously exercise full control over your mind and your intel
 
 ## Summary:
 
-This audio file is a guided meditation focused on gaining control over one's thoughts. It instructs the listener to withdraw attention from external stimuli and focus on self-awareness. The meditation guides the listener to create a single thought, concentrate on it, and then use their intellect to assess its quality (positive/negative, right/wrong, necessary/unnecessary). It encourages the listener to discard or consciously destroy negative or unproductive thoughts and replace them with better ones, thereby exercising control over their mind and intellect.
+This audio file is a guided meditation focused on controlling one's thoughts. It instructs the listener to withdraw attention from external stimuli and focus on self-awareness. The meditation guides the listener to create a single thought, concentrate on it, and then use their intellect to assess its quality (positive/negative, right/wrong, necessary/wasteful). It encourages the listener to discard negative or unnecessary thoughts and replace them with better ones, thereby exercising conscious control over their mind and intellect.
 

@@ -18,5 +18,5 @@ Becoming aware of this, I am able to send out light and life throughout this phy
 
 ## Summary:
 
-This audio file is a guided meditation focused on inner awareness and control. It begins by guiding the listener to relax their body and release tension. It then encourages the listener to turn their attention inward, visualizing a point of light within themselves, specifically in the center of their forehead. The meditation emphasizes the listener's identity as an eternal soul, a being of light, and the master of their physical body. It encourages the listener to consciously direct their senses and use their body for constructive and positive purposes, radiating light and life.
+This audio file is a guided meditation focused on inner awareness and control. It begins by guiding the listener to relax their physical body, releasing tension in various muscle groups. It then shifts the focus inward, encouraging the listener to visualize a point of light within their mind's eye, specifically located in the center of the forehead. The meditation emphasizes the listener's identity as an eternal soul, a being of light, and the master of their physical instrument. It encourages the listener to harness their inner energy and direct their senses and actions towards constructive and positive purposes.
 

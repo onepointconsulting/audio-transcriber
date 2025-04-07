@@ -24,5 +24,5 @@ And give yourself permission to be completely loved.
 
 ## Summary:
 
-This audio file is a guided meditation. It instructs the listener to visualize themselves as a soul, a spark of life energy in the center of their forehead. The meditation guides the listener to withdraw to this point and visualize a radiant jewel of light, emanating gentle energy. It encourages the listener to move towards this light, which is described as an ocean of love and a connection with the supreme soul. The meditation encourages relaxation, openness, and allowing oneself to be completely loved.
+This audio file is a guided meditation focused on connecting with the soul and experiencing divine love. It instructs the listener to visualize themselves as a spark of light in the center of their forehead and then to imagine a radiant jewel of light. The meditation guides the listener to move towards this light, which represents an unlimited ocean of love and a connection with the supreme soul. It encourages relaxation, openness, and the acceptance of being completely loved.
 

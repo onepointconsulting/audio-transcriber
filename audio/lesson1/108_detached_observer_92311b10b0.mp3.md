@@ -1,8 +1,10 @@
 ## Transcription:
 
-In practicing the stage of the detached observer, the first step is to allow the body to relax. I'll guide you to take three deep breaths, and as you exhale each time, exhale fully and completely. So take your first deep breath, hold for a little, and then slowly breathe out. As you do, relax your shoulders, letting them drop completely, and breathing normally again now.
+In practicing the stage of the detached observer, the first step is to allow the body to relax.
 
-A second deep breath. Hold. And now release all the breath. And as you do, relax the muscles around your jaw, letting go absolutely and completely. And return to normal breathing.
+I'll guide you to take three deep breaths, and as you exhale each time, exhale fully and completely. So take your first deep breath, hold for a little, and then slowly breathe out. As you do, relax your shoulders, letting them drop completely, and breathing normally again now.
+
+A second deep breath. Hold. And now release all the breath, and as you do, relax the muscles around your jaw, letting go absolutely and completely. And return to normal breathing.
 
 And now a final deep breath, holding, releasing, and relaxing all the muscles around your eyes, and return to normal breathing.
 
@@ -20,5 +22,5 @@ Experiencing this observer stage, gently become aware of the outer world again. 
 
 ## Summary:
 
-This audio file is a guided meditation designed to help the listener achieve a state of detached observation. It begins with relaxation techniques involving deep breathing and muscle relaxation. The meditation then guides the listener to become aware of their external surroundings, followed by their internal thoughts and feelings. The key instruction is to accept these thoughts and feelings without judgment or attempts to change them. Finally, the meditation encourages the listener to identify as the observer, a detached and calm witness to their own experiences, and to maintain this state as they return to their daily life.
+This audio file is a guided meditation designed to help the listener achieve a state of detached observation. The meditation involves five steps: 1) relaxing the body through deep breathing, 2) becoming aware of external surroundings, 3) observing inner thoughts and feelings without judgment, 4) accepting all that is observed, and 5) recognizing oneself as the detached observer, separate from thoughts and feelings. The meditation concludes by encouraging the listener to gently return to their surroundings and to maintain the observer state as they go about their daily life.
 

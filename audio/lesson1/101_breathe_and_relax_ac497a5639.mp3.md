@@ -18,5 +18,5 @@ Now let's leave this meditation and go back to the world outside you, the world 
 
 ## Summary:
 
-This audio file is a guided meditation designed to promote relaxation and self-awareness. It begins by guiding the listener to find a comfortable position, close their eyes, and focus on their breath, releasing tension with each exhale. The meditation encourages the listener to mentally repeat their name followed by the word "relax" to deepen the sense of calm. It then prompts the listener to check in with their feelings without judgment, fostering self-awareness. The meditation concludes by gently guiding the listener back to their surroundings, preparing them to move forward with their day.
+This audio file is a guided meditation designed to promote relaxation and self-awareness. The meditation begins by guiding the listener to find a comfortable position, close their eyes, and focus on their breath, releasing any tension. It then encourages the listener to repeat their name and the word "relax" to deepen the sense of calm. The meditation prompts the listener to acknowledge their current feelings without judgment, fostering self-awareness. Finally, it guides the listener back to their surroundings, preparing them to move forward with their day.
 

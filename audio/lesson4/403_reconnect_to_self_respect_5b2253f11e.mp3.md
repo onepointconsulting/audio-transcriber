@@ -20,7 +20,7 @@ The ocean of pure love.
 
 I feel this love washing me.
 
-Filling me, healing me.
+Filling me. Healing me.
 
 I keep my focus towards this light.
 
@@ -34,5 +34,5 @@ This love reconnects me to my self-respect.
 
 ## Summary:
 
-This audio file is a guided meditation focused on connecting with pure love. It begins with visualizing oneself as a tiny soul, a spark of light in the forehead, and withdrawing from bodily awareness. The meditation guides the listener to see a radiant jewel of light and to feel pure love emanating and filling them. It encourages opening oneself to this love, which is described as an ocean. The meditation emphasizes that this love washes over, fills, and heals, providing courage, inner strength, and a reconnection to self-respect.
+This audio file is a guided meditation focused on connecting with pure love and inner strength. It begins with visualizing oneself as a tiny soul, withdrawing from bodily awareness, and focusing on a radiant light within the forehead. The meditation guides the listener to open themselves to pure love, allowing it to wash over them, filling and healing them. It emphasizes maintaining focus on the light and allowing oneself to be completely loved, which in turn provides the courage to change, inner strength, and a reconnection to self-respect.
 

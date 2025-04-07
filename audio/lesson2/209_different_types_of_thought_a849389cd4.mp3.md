@@ -14,7 +14,9 @@ My mind creates so many different thoughts.
 
 In soul consciousness, I focus my mind on truth, and I ensure real, pure, true thoughts are created.
 
-Sometimes a waste thought appears on the screen of my mind, extraneous and reactive to some event or person. I watch that thought and make it disappear.
+Sometimes a waste thought appears on the screen of my mind, extraneous and reactive to some event or person.
+
+I watch that thought and make it disappear.
 
 I tell my mind, "Oh mind, stay pure. Stay peaceful. Stay detached. Be focused on what is real and meaningful."
 
@@ -28,13 +30,7 @@ Let it again merge into the past.
 
 I let go of the past.
 
-I choose to be easy,
-
-light,
-
-accepting,
-
-and to move forward.
+I choose to be easy, light, accepting, and to move forward.
 
 I allow everything to be as it is.
 
@@ -42,11 +38,11 @@ I am not disturbed by anything.
 
 Many things may arise.
 
-I look at them through the eyes of wisdom,
+I look at them through the eyes of wisdom.
 
-and I let them go, so they have no impact on my being. I keep my mind pure and clean.
+And I let them go, so they have no impact on my being. I keep my mind pure and clean.
 
 ## Summary:
 
-This audio file is a guided meditation focused on maintaining a pure and clear mind. It encourages the listener to observe their thoughts and emotions, recognizing that they originate from deep within the subconscious. The meditation guides the listener to focus on truth and create pure thoughts, while also addressing negative or wasteful thoughts that may arise. It teaches the listener to acknowledge these negative thoughts, calm them, and let them go, preventing them from impacting their being. The meditation emphasizes acceptance, detachment, and focusing on what is real and meaningful, ultimately aiming for a peaceful and undisturbed mind.
+This audio file is a guided meditation focused on maintaining a pure and clear mind. It encourages the listener to observe their thoughts and emotions, recognizing that they originate from deep within. The meditation guides the listener to focus on truth and create pure thoughts, while also addressing negative or wasteful thoughts that may arise. It instructs the listener to acknowledge these negative thoughts, calm them, and let them merge back into the past, choosing instead to be easy, light, and accepting. The meditation emphasizes detachment and wisdom in observing arising thoughts, ensuring they do not disturb one's being, and ultimately maintaining a pure and clean mind.
 

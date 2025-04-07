@@ -6,7 +6,7 @@ Make each breath in full and deep, feeling the air entering deep down into your 
 
 Make each breath out long, slow, and even.
 
-Take three deep breaths now. First breath in through your nose. Hold a moment, and out through your mouth, slowly and evenly. In through the nose, inhaling peace. Hold, and out through the mouth, exhaling stress. Third deep breath, in through the nose, inhaling peace and calmness. Hold, and slowly out, exhaling stress, tension, and worry.
+Take three deep breaths now. First breath in through your nose. Hold a moment, and out through your mouth, slowly and evenly. In through the nose, inhaling peace. Hold, and out through the mouth, exhaling stress. Third deep breath, in through the nose, inhaling peace and calmness, hold, and slowly out, exhaling stress, tension, and worry.
 
 Continue breathing normally.
 

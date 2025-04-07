@@ -14,17 +14,11 @@ Each thought is like a fine strand of silk, shimmering into the world around me.
 
 Each strand is a thought, so subtle, so fine, powerful, pure.
 
-Each strand carries a vibration of pure peace.
+Each strand carries a vibration of pure peace, a gift to any being that it may touch.
 
-A gift to any being that it may touch.
-
-In this pure awareness of myself in my form of light, I realize that the greatest gifts I can share with those around me are the light of love,
-
-the light of peace,
-
-the light of truth.
+In this pure awareness of myself in my form of light, I realize that the greatest gifts I can share with those around me are the light of love, the light of peace, the light of truth.
 
 ## Summary:
 
-This audio file is a guided meditation focused on connecting with one's inner light and radiating positive energy into the world. The meditation guides the listener to detach from the physical world, create pure thoughts, and become aware of their subtle body of pure white light. It encourages the listener to visualize their thoughts as fine strands of silk carrying vibrations of peace, love, and truth, and to share these gifts with others.
+This audio file is a guided meditation focused on connecting with one's inner light and radiating positive energy into the world. It guides the listener to detach from the physical world, create pure thoughts, and become aware of their subtle body of pure white light. The meditation emphasizes the power of thoughts as fine strands of silk carrying vibrations of peace and encourages sharing the light of love, peace, and truth with others.
 

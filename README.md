@@ -4,6 +4,8 @@ A command-line tool that uses Google's Gemini AI to transcribe audio files into 
 
 The audio folder contains some examples of the resulting translations in md files.
 
+
+
 ## Features
 
 - Transcribes audio files to markdown format
@@ -12,6 +14,7 @@ The audio folder contains some examples of the resulting translations in md file
 - Configurable model parameters
 - Automatic file type detection
 - Markdown-formatted output with transcription and summary sections
+- Tries to calculate and store the costs in a JSON file
 
 ## Prerequisites
 
@@ -47,6 +50,12 @@ GEMINI_TEMPERATURE=0.7
 GEMINI_TOP_K=40
 GEMINI_TOP_P=0.95
 GEMINI_MAX_OUTPUT_TOKENS=2048
+
+# Check prices here: https://ai.google.dev/gemini-api/docs/pricing
+# Prices in USD per million tokens
+GIMINI_INPUT_PRICE=0.70
+# Price in USD per million tokens
+GIMINI_OUTPUT_PRICE=0.40
 ```
 
 ## Usage

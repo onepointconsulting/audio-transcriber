@@ -22,5 +22,5 @@ I am at peace.
 
 ## Summary:
 
-This audio file is a guided meditation that encourages relaxation and peace. It guides the listener to imagine a serene summer scene: sitting under a tree by a gently flowing river, feeling the warmth of the sun, and observing the clear blue sky. The meditation emphasizes releasing worries and stress with each exhale and inhaling calmness and peace with each breath. It encourages the listener to acknowledge thoughts without dwelling on them, letting them pass gently like the river's flow. The meditation concludes with affirmations of calmness, relaxation, and peace.
+This audio file is a guided meditation that encourages relaxation and peace. It guides the listener to imagine a serene summer scene: sitting under a tree by a gently flowing river, feeling the warmth of the sun, and letting go of worries. The meditation emphasizes breathing out stress and breathing in peace, and gently releasing any thoughts that arise. It reinforces feelings of calmness, relaxation, and peace through affirmations.
 

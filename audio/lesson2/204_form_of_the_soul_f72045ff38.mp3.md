@@ -28,5 +28,5 @@ I am remembering who I really am.
 
 ## Summary:
 
-This audio file is a guided meditation focused on connecting with one's soul. It encourages the listener to shift their focus inward and contemplate the nature of their soul. The meditation describes the soul as a tiny spark or point of light, a powerful life force within the body, emphasizing that while the body is visible, the soul is not. It draws an analogy to a microchip, highlighting the soul's small size but immense power and capacity. The meditation concludes with a movement towards soul awareness and a remembrance of one's true identity as a soul.
+This audio file is a guided meditation focused on soul awareness. It guides the listener to shift their focus inward and contemplate the nature of their soul. The meditation describes the soul as a tiny spark or point of light, a powerful life force distinct from the physical body. It emphasizes the soul's small size yet immense power, comparing it to a microchip. The meditation concludes with the listener moving into a state of soul awareness and remembering their true identity.
 

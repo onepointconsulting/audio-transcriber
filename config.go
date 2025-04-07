@@ -15,6 +15,14 @@ func initDotEnv() {
 	}
 }
 
+func extractFloat(envVar string) float32 {
+	str := os.Getenv(envVar)
+	assert(str != "", envVar+" is not set")
+	price, err := strconv.ParseFloat(str, 32)
+	assert(err == nil, envVar+" must be a valid float")
+	return float32(price)
+}
+
 func loadConfig() *Config {
 	initDotEnv()
 	geminiApiKey := os.Getenv("GEMINI_API_KEY")
@@ -22,11 +30,7 @@ func loadConfig() *Config {
 	geminiModel := os.Getenv("GEMINI_MODEL")
 	assert(geminiModel != "", "GEMINI_MODEL is not set")
 
-	tempStr := os.Getenv("GEMINI_TEMPERATURE")
-	assert(tempStr != "", "GEMINI_TEMPERATURE is not set")
-	geminiTemperature, err := strconv.ParseFloat(tempStr, 32)
-	assert(err == nil, "GEMINI_TEMPERATURE must be a valid float")
-	geminiTemperature32 := float32(geminiTemperature)
+	geminiTemperature32 := extractFloat("GEMINI_TEMPERATURE")
 
 	topKStr := os.Getenv("GEMINI_TOP_K")
 	assert(topKStr != "", "GEMINI_TOP_K is not set")
@@ -34,17 +38,16 @@ func loadConfig() *Config {
 	assert(err == nil, "GEMINI_TOP_K must be a valid integer")
 	geminiTopK32 := int32(geminiTopK)
 
-	topPStr := os.Getenv("GEMINI_TOP_P")
-	assert(topPStr != "", "GEMINI_TOP_P is not set")
-	geminiTopP, err := strconv.ParseFloat(topPStr, 32)
-	assert(err == nil, "GEMINI_TOP_P must be a valid float")
-	geminiTopP32 := float32(geminiTopP)
+	geminiTopP32 := extractFloat("GEMINI_TOP_P")
 
 	maxTokensStr := os.Getenv("GEMINI_MAX_OUTPUT_TOKENS")
 	assert(maxTokensStr != "", "GEMINI_MAX_OUTPUT_TOKENS is not set")
 	geminiMaxOutputTokens, err := strconv.Atoi(maxTokensStr)
 	assert(err == nil, "GEMINI_MAX_OUTPUT_TOKENS must be a valid integer")
 	geminiMaxOutputTokens32 := int32(geminiMaxOutputTokens)
+
+	geminiInputPrice32 := extractFloat("GIMINI_INPUT_PRICE")
+	geminiOutputPrice32 := extractFloat("GIMINI_OUTPUT_PRICE")
 
 	return &Config{
 		geminiApiKey:          geminiApiKey,
@@ -53,5 +56,7 @@ func loadConfig() *Config {
 		geminiTopK:            geminiTopK32,
 		geminiTopP:            geminiTopP32,
 		geminiMaxOutputTokens: geminiMaxOutputTokens32,
+		geminiInputPrice:      geminiInputPrice32,
+		geminiOutputPrice:     geminiOutputPrice32,
 	}
 }

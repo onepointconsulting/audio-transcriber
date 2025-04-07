@@ -4,5 +4,5 @@ Focusing thought. Taking just a minute, I step back from the noise and business 
 
 ## Summary:
 
-This audio file is a guided meditation focused on cultivating inner peace. It instructs the listener to step away from distractions and focus on the single thought: "I am a being of peace." By holding this thought with deep concentration, the listener is guided to feel peace permeating their entire being, refreshing their mind and preparing them for the day.
+This audio file is a guided meditation focused on cultivating inner peace. It instructs the listener to step away from distractions and focus on the single thought: "I am a being of peace." By concentrating on this thought, the listener is guided to feel peace spreading throughout their being, refreshing their mind and preparing them for the day.
 

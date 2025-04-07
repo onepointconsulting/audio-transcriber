@@ -30,14 +30,13 @@ This one is offering everything to me: love, protection, support, a promise to b
 That promise goes deep into my being like an arrow of light.
 And I feel faith and certainty that this one is always for me, always has been, always with me.
 It is a promise for all time, a guarantee.
-
 And I take this deep into myself.
+
 It strengthens me and makes me aware of who I am and who we are.
 We will always be connected, only a thought away.
-
 And so with lightness and joy, I slip gently back into this body, into the everyday world.
 
 ## Summary:
 
-This audio file is a guided meditation focused on connecting with a source of light and love within. The meditation guides the listener to go deep within themselves, to a place beyond the everyday world, where they can encounter a light that represents a being of immense love and wisdom. This being offers love, protection, support, and a promise of eternal companionship. The listener is encouraged to embrace this connection, allowing it to strengthen them and deepen their understanding of themselves and their place in the universe. The meditation concludes with a gentle return to the physical body and the everyday world, carrying the experience of connection and assurance.
+This audio file is a guided meditation focused on connecting with a source of light and love within. The meditation guides the listener to go deep within themselves, beyond the everyday world, to encounter a light that represents a being of love and wisdom. This being offers love, protection, support, and a promise of eternal companionship. The listener is encouraged to embrace this connection, allowing it to strengthen them and deepen their understanding of themselves and their place in the universe. The meditation concludes with a gentle return to the physical body and the everyday world, carrying the lightness and joy of the experience.
 

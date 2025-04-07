@@ -6,9 +6,7 @@ Allow your body to become still.
 
 You have all the virtues within your soul. You may not be able to draw upon them in every situation, but you have all the virtues within you.
 
-If you haven't already done so, select a virtue for your meditation.
-
-Whichever one you decide upon is the right one for today. So choose your virtue now.
+If you haven't already done so, select a virtue for your meditation. Whichever one you decide upon is the right one for today. So choose your virtue now.
 
 Imagine a tiny ball of light within you. In the middle of your brain, a little spark of energy.
 
@@ -16,15 +14,11 @@ This is the seed of your chosen virtue. The seed is lying dormant, and your atte
 
 Think about your virtue.
 
-What does it mean to you?
-
 Focus again on the tiny glowing ball of light in the middle of your brain.
 
 The glow becomes a little brighter, more intense. And the light from the seed starts to spread outwards and fills your brain with light. The seed grows brighter, and the light spreads further, filling your entire head.
 
-You sense the light pouring out of your eyelids.
-
-Light pouring out of your ears, out the top of your head, forming an aura of light.
+You sense the light pouring out of your eyelids. Light pouring out of your ears, out the top of your head, forming an aura of light.
 
 The seed continues to glow, spreading light to your mouth, so the virtue will influence the words you speak. The light glows into your throat, your shoulders, your chest, your heart, your back.
 
@@ -44,5 +38,5 @@ Look for opportunities today to use the virtue you have just activated in your s
 
 ## Summary:
 
-This audio file is a guided meditation focused on accessing and activating virtues within one's soul. It instructs the listener to choose a virtue, visualize it as a tiny ball of light within their brain, and then imagine that light expanding to fill their entire body and radiating outwards as an aura. The meditation encourages the listener to consider how this virtue can influence their thoughts, words, choices, and actions in their daily life. The meditation concludes by encouraging the listener to seek opportunities to use the activated virtue throughout the day.
+This audio file is a guided meditation focused on accessing and activating virtues within the listener's soul. It begins by instructing the listener to become still and select a virtue for the meditation. The meditation guides the listener to visualize a tiny ball of light representing the seed of their chosen virtue within their brain. As the meditation progresses, the light grows brighter and spreads throughout the body, influencing thoughts, words, choices, and actions. The listener is encouraged to radiate this light and virtue outwards, and to seek opportunities to apply the virtue in their daily life. The meditation concludes by gently bringing the listener back to their day, encouraging them to remember the aura of light and to look for opportunities to use the activated virtue.
 

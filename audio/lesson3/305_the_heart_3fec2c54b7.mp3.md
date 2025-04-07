@@ -48,5 +48,5 @@ I will never be alone again. And with a feeling of deep happiness, I gently let 
 
 ## Summary:
 
-This audio file is a guided meditation focused on releasing attachment to the material world and connecting with a higher power or inner light. It encourages the listener to draw their attention inward, remember their true nature as a soul, and let go of worries and concerns that hold them back. The meditation emphasizes the presence of a supportive and loving force that provides strength, guidance, and peace. It guides the listener to establish a relationship with this higher power through inner dialogue and trust, ultimately leading to a feeling of freedom, happiness, and a renewed perspective on the world.
+This audio file is a guided meditation focused on releasing attachment to the material world and connecting with one's inner light and a higher power. It encourages the listener to focus inward, remember their true nature as a soul, and let go of worries and concerns that hold them back. The meditation emphasizes the presence of a loving, supportive force that provides strength, guidance, and peace. It guides the listener to establish a relationship with this higher power through inner dialogue and trust, ultimately leading to a feeling of freedom, happiness, and a renewed perspective on the world.
 

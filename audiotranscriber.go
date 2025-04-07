@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"log"
 	"os"
@@ -29,6 +30,8 @@ const (
 	Aac  audioMimeType = "audio/aac"
 	Wma  audioMimeType = "audio/x-ms-wma"
 )
+
+var totalCostMetrics CostMetrics
 
 func getAudioMimeType(ext string) (audioMimeType, bool) {
 	switch strings.ToLower(ext) {
@@ -60,7 +63,20 @@ func transcribeAudio(path string, recursive bool) {
 	fileURIs, audioFiles := filterFiles(ctx, gemini.Client, path, recursive)
 
 	for i, fileURI := range fileURIs {
-		processTranscription(ctx, gemini.Model, i, fileURI, audioFiles[i])
+		processTranscription(ctx, gemini.Model, i, fileURI, audioFiles[i], config)
+	}
+	writeCostMetrics(path, totalCostMetrics)
+}
+
+func writeCostMetrics(path string, metrics CostMetrics) {
+	costMetricsPath := filepath.Join(path, "cost_metrics.json")
+	jsonData, err := json.MarshalIndent(metrics, "", "  ")
+	if err != nil {
+		log.Printf("Error marshaling cost metrics: %v", err)
+		return
+	}
+	if err := os.WriteFile(costMetricsPath, jsonData, 0644); err != nil {
+		log.Printf("Error writing cost metrics: %v", err)
 	}
 }
 
@@ -146,6 +162,7 @@ func processTranscription(
 	ctx context.Context,
 	model *genai.GenerativeModel, i int,
 	fileURI, audioFile string,
+	config *Config,
 ) {
 	session := model.StartChat()
 	session.History = []*genai.Content{
@@ -202,6 +219,37 @@ This audio file is a guided meditation. It instructs the listener to relax, brea
 	transcriptionFileName := getTranscriptionFileName(audioFile)
 	if err := os.WriteFile(transcriptionFileName, []byte(sb.String()), 0644); err != nil {
 		log.Printf("Error writing transcription for %s: %v", audioFile, err)
+	}
+
+	if resp.UsageMetadata != nil {
+		// Get prompt tokens from UsageMetadata
+		promptTokens := int(resp.UsageMetadata.PromptTokenCount)
+
+		// Calculate completion tokens from the response
+		completionTokens := 0
+		for _, candidate := range resp.Candidates {
+			for _, part := range candidate.Content.Parts {
+				if text, ok := part.(genai.Text); ok {
+					// Rough estimate: 1 token ≈ 4 characters
+					completionTokens += len(string(text)) / 4
+				}
+			}
+		}
+
+		totalCostMetrics.TotalPromptTokens += promptTokens
+		totalCostMetrics.TotalCompletionTokens += completionTokens
+		totalCostMetrics.TotalTokens += promptTokens + completionTokens
+
+		geminiInputPrice := config.geminiInputPrice / 100000
+		geminiOutputPrice := config.geminiOutputPrice / 100000
+		totalCostMetrics.TotalCost += float32(promptTokens)*geminiInputPrice + float32(completionTokens)*geminiOutputPrice
+
+		log.Printf("File %s - Prompt Tokens: %d, Completion Tokens: %d, Total Tokens: %d, Total Cost: $%.2f",
+			audioFile,
+			promptTokens,
+			completionTokens,
+			promptTokens+completionTokens,
+			totalCostMetrics.TotalCost)
 	}
 }
 
