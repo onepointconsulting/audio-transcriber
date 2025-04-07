@@ -2,6 +2,8 @@
 
 A command-line tool that uses Google's Gemini AI to transcribe audio files into markdown format. It supports various audio formats and provides accurate transcriptions with summaries.
 
+The audio folder contains some examples of the resulting translations in md files.
+
 ## Features
 
 - Transcribes audio files to markdown format
